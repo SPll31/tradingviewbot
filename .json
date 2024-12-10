@@ -1,0 +1,494 @@
+{
+    "id": 400098,
+    "name": "Honda LEAD125",
+    "slug": "honda-lead125-7",
+    "permalink": "https://floralwhite-ant-761299.hostingersite.com/product/honda-lead125-7/",
+    "date_created": "2024-11-23T14:07:11",
+    "date_created_gmt": "2024-11-23T14:07:11",
+    "date_modified": "2024-11-23T14:07:11",
+    "date_modified_gmt": "2024-11-23T14:07:11",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "0",
+    "regular_price": "0",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+        {
+            "id": 12458,
+            "name": "BDS",
+            "slug": "auccion-bdsc"
+        },
+        {
+            "id": 74,
+            "name": "Аукціон",
+            "slug": "auccion"
+        }
+    ],
+    "tags": [],
+    "images": [
+        {
+            "id": 399979,
+            "date_created": "2024-11-23T14:06:55",
+            "date_created_gmt": "2024-11-23T14:06:55",
+            "date_modified": "2024-11-23T14:06:56",
+            "date_modified_gmt": "2024-11-23T14:06:56",
+            "src": "https://floralwhite-ant-761299.hostingersite.com/wp-content/uploads/2024/11/524520241127_r.jpg",
+            "name": "524520241127_r.jpg",
+            "alt": ""
+        },
+        {
+            "id": 399996,
+            "date_created": "2024-11-23T14:06:57",
+            "date_created_gmt": "2024-11-23T14:06:57",
+            "date_modified": "2024-11-23T14:06:57",
+            "date_modified_gmt": "2024-11-23T14:06:57",
+            "src": "https://floralwhite-ant-761299.hostingersite.com/wp-content/uploads/2024/11/524520241127_l.jpg",
+            "name": "524520241127_l.jpg",
+            "alt": ""
+        },
+        {
+            "id": 400008,
+            "date_created": "2024-11-23T14:07:00",
+            "date_created_gmt": "2024-11-23T14:07:00",
+            "date_modified": "2024-11-23T14:07:00",
+            "date_modified_gmt": "2024-11-23T14:07:00",
+            "src": "https://floralwhite-ant-761299.hostingersite.com/wp-content/uploads/2024/11/524520241127_f.jpg",
+            "name": "524520241127_f.jpg",
+            "alt": ""
+        },
+        {
+            "id": 400024,
+            "date_created": "2024-11-23T14:07:02",
+            "date_created_gmt": "2024-11-23T14:07:02",
+            "date_modified": "2024-11-23T14:07:02",
+            "date_modified_gmt": "2024-11-23T14:07:02",
+            "src": "https://floralwhite-ant-761299.hostingersite.com/wp-content/uploads/2024/11/524520241127_a.jpg",
+            "name": "524520241127_a.jpg",
+            "alt": ""
+        },
+        {
+            "id": 400039,
+            "date_created": "2024-11-23T14:07:04",
+            "date_created_gmt": "2024-11-23T14:07:04",
+            "date_modified": "2024-11-23T14:07:04",
+            "date_modified_gmt": "2024-11-23T14:07:04",
+            "src": "https://floralwhite-ant-761299.hostingersite.com/wp-content/uploads/2024/11/524520241127_b.jpg",
+            "name": "524520241127_b.jpg",
+            "alt": ""
+        },
+        {
+            "id": 400055,
+            "date_created": "2024-11-23T14:07:06",
+            "date_created_gmt": "2024-11-23T14:07:06",
+            "date_modified": "2024-11-23T14:07:06",
+            "date_modified_gmt": "2024-11-23T14:07:06",
+            "src": "https://floralwhite-ant-761299.hostingersite.com/wp-content/uploads/2024/11/524520241127_s.jpg",
+            "name": "524520241127_s.jpg",
+            "alt": ""
+        },
+        {
+            "id": 400070,
+            "date_created": "2024-11-23T14:07:08",
+            "date_created_gmt": "2024-11-23T14:07:08",
+            "date_modified": "2024-11-23T14:07:08",
+            "date_modified_gmt": "2024-11-23T14:07:08",
+            "src": "https://floralwhite-ant-761299.hostingersite.com/wp-content/uploads/2024/11/524520241127_t.jpg",
+            "name": "524520241127_t.jpg",
+            "alt": ""
+        },
+        {
+            "id": 400091,
+            "date_created": "2024-11-23T14:07:10",
+            "date_created_gmt": "2024-11-23T14:07:10",
+            "date_modified": "2024-11-23T14:07:10",
+            "date_modified_gmt": "2024-11-23T14:07:10",
+            "src": "https://floralwhite-ant-761299.hostingersite.com/wp-content/uploads/2024/11/524520241127_u.jpg",
+            "name": "524520241127_u.jpg",
+            "alt": ""
+        }
+    ],
+    "attributes": [
+        {
+            "id": 17,
+            "name": "Номер рами",
+            "slug": "pa_rama",
+            "position": 0,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "JF45-1309428"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Номер двигуна",
+            "slug": "pa_nomer-dviguna",
+            "position": 1,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "JF"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Колір",
+            "slug": "pa_color",
+            "position": 2,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "WHITE"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Пробіг",
+            "slug": "pa_run",
+            "position": 3,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "2999 км"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Об'єм двигуна",
+            "slug": "pa_engine-capacity",
+            "position": 4,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "125"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Реєстрація ТО",
+            "slug": "pa_to",
+            "position": 5,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "0"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Оцінка",
+            "slug": "pa_ocinka",
+            "position": 7,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "5"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Дата торгів",
+            "slug": "pa_date",
+            "position": 8,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "20241127"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Номер лота",
+            "slug": "pa_lot",
+            "position": 9,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "C5245"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Загальна оцінка",
+            "slug": "pa_zagalna-ocinka",
+            "position": 10,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "5"
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Оцінка двигуна",
+            "slug": "pa_ocinka-dviguna",
+            "position": 11,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "5"
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Зовнішній вигляд",
+            "slug": "pa_zovnishnii-viglayd",
+            "position": 12,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "5"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Передня частина",
+            "slug": "pa_perednia",
+            "position": 13,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "4"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Задня частина",
+            "slug": "pa_zadnya-chastina",
+            "position": 14,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "6"
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Електросистеми, безпека",
+            "slug": "pa_electro-ocinka",
+            "position": 15,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "4"
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Оцінка рами",
+            "slug": "pa_ocinka-ramy",
+            "position": 16,
+            "visible": true,
+            "variation": false,
+            "options": [
+                "4"
+            ]
+        }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<strong>¥ 0</strong>",
+    "related_ids": [
+        369170,
+        369203,
+        369193,
+        369205,
+        369195
+    ],
+    "meta_data": [
+        {
+            "id": 3261160,
+            "key": "sales_data",
+            "value": "【LEAD125】Rank 5 bikes Monthly Sales Data Sold 19 bikes in the range of ¥100,000 to ¥212,000\r                "
+        },
+        {
+            "id": 3261161,
+            "key": "bds_comment",
+            "value": "前足回りねじれ。各所変色。\r        "
+        },
+        {
+            "id": 3261162,
+            "key": "videos",
+            "value": [
+                "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/movie_engine/524520241127_r.mp4",
+                "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/movie_engine/524520241127_l.mp4"
+            ]
+        },
+        {
+            "id": 3261163,
+            "key": "inspection",
+            "value": {
+                "Engine\r": {
+                    "images": [
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_010_01.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_010_02.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_010_03.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_010_04.jpg"
+                    ],
+                    "params": {
+                        "Engine": "EngineRust",
+                        "Crankcase cover": "CoverFlaw",
+                        "Oil leak": "",
+                        "Radiator": "RadiatorRust",
+                        "Carburetor": "",
+                        "Clutch": "",
+                        "Starting motor": ""
+                    }
+                },
+                "Front\r": {
+                    "images": [
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_020_01.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_020_02.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_020_03.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_020_04.jpg"
+                    ],
+                    "params": {
+                        "Tube outer": "",
+                        "Tube inner": "InnerRust",
+                        "Stem steering": "StemRustLv3",
+                        "Steering handle bar": "",
+                        "Front Wheel": "",
+                        "Front Brake": "DiskRust",
+                        "Front Tire": ""
+                    }
+                },
+                "Exterior\r": {
+                    "images": [
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_030_01.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_030_02.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_030_03.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_030_04.jpg"
+                    ],
+                    "params": {
+                        "Upper cowl": "UpperRust",
+                        "Center cowl": "CenterFlaw Rust",
+                        "Under cowl": "",
+                        "Side cowl": "",
+                        "Tank fuel": "",
+                        "Seat": "SeatCleft",
+                        "Tail cowl": "CarrierFlaw Rust",
+                        "Front fender": "Front-fenderFlaw",
+                        "Rear fender": "",
+                        "Screen": ""
+                    }
+                },
+                "Rear\r": {
+                    "images": [
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_040_01.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_040_02.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_040_03.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_040_04.jpg"
+                    ],
+                    "params": {
+                        "Rear shock": "ShockRust",
+                        "Swing arm": "",
+                        "Chain": "",
+                        "Sprocket": "",
+                        "Rear Wheel": "",
+                        "Rear Brake": "",
+                        "Rear Tire": ""
+                    }
+                },
+                "Electronic Safety Parts\r": {
+                    "images": [
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_050_01.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_050_02.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_050_03.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_050_04.jpg"
+                    ],
+                    "params": {
+                        "Key": "Key2",
+                        "Meter": "",
+                        "Turn-signal": "Turn-signalFlaw",
+                        "Headlamp": "",
+                        "Battery": "",
+                        "Horn": "",
+                        "Back-lamp": "",
+                        "Mirror": "MirrorRust",
+                        "Silencer": "SilencerRustLv3",
+                        "Exhaustpipe": "Exhaust-pipeRustLv3"
+                    }
+                },
+                "Frame\r": {
+                    "images": [
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_060_01.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_060_02.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_060_03.jpg",
+                        "http://bdsc.jupiter.ac//auctiondata/bds/disp/bds/20241127/image_item/524520241127_060_04.jpg"
+                    ],
+                    "params": {
+                        "Mainframe": "Main-frameRustLv3",
+                        "Downtube": "",
+                        "Stopper": "",
+                        "Seatrail": "",
+                        "Step": "StepFlaw",
+                        "Stand": "StandRustLv3"
+                    }
+                }
+            }
+        }
+    ],
+    "stock_status": "backorder",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+        "self": [
+            {
+                "href": "https://floralwhite-ant-761299.hostingersite.com/wp-json/wc/v3/products/400098"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://floralwhite-ant-761299.hostingersite.com/wp-json/wc/v3/products"
+            }
+        ]
+    }
+}
